@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 body, 
 ul,
 h1 {
+	font-family: 'Playfair Display', serif;
 	margin: 0px;
 }
 
@@ -25,7 +28,7 @@ a:hover {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	margin-left: 100px;
-	font-family: avenir, verdana, sans-serif;
+
 	font-weight: 100;
 }
 
@@ -46,7 +49,7 @@ a:hover {
     display: inline-block;
     margin-right: 20px;
     line-height: 80px;    /* if you want it vertically middle of the navbar */
-    font-family: avenir, verdana, sans-serif;
+    
 	font-weight: 100;
 	font-size: 12px;
 }
@@ -57,7 +60,7 @@ img {
 }
 
 .hashtag_info {
-   font-family: avenir, verdana, sans-serif; 
+
    font-size: 12px;
    font-weight: 100px;
    padding-left: 15px;
